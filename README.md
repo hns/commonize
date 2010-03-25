@@ -2,8 +2,7 @@
 
 This is a RingoJS package that converts one or more RingoJS modules 
 into pure CommonJS by replacing their use of `include()` and 
-`export()` with other constructs.
-
+`export()` with `require()` and the exports object, respectively.
 For example, the following fragment from the `ringo/webapp/response`
 module:
 
