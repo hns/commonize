@@ -1,0 +1,8 @@
+{
+    "name": "commonize",
+    "version": "0.0.1",
+    "description": "A tool to convert RingoJS modules to pure CommonJS",
+    "keywords": ["javascript", "ringo"],
+    "author": "Hannes Wallnöfer (http://henso.com/) <hannes@helma.at>",
+    "lib": ["lib"],
+}
